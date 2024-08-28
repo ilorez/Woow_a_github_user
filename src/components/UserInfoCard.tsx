@@ -1,4 +1,4 @@
-import { UserInterface } from '../pages/Search';
+import { UserInterface } from "../assets/constants/file";
 
 export default function UserInfoCard({ ...userObjInfo }: UserInterface) {
   return (
